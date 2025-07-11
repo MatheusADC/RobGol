@@ -35,7 +35,7 @@ O projeto apresenta a construção de um carrinho que joga futebol usando **Ardu
 6. Conecte o pino A-1B do Módulo Driver Ponte H L9110 no pino 9 do Arduino;
 7. Conecte o pino B-1A do Módulo Driver Ponte H L9110 no pino 10 do Arduino;
 8. Conecte o pino B-1B do Módulo Driver Ponte H L9110 no pino 11 do Arduino;
-9. Conecte as portas do Módulo Driver Ponte H L9110 aos motores DC, sendo 2 portas para cada motor.
+9. Solde os jumpers, conectados às portas do Módulo Driver Ponte, nos terminais dos motores — sendo duas portas para cada motor.
 
 # <sub><img src="https://github.com/user-attachments/assets/9cbe287f-e23c-4ea6-9119-c0612c0b9dc3" alt="Ícone de celular" width="32"></sub> App para controlar o carrinho
 [Clique Aqui](https://github.com/MatheusADC/CarrinhoController)
