@@ -14,7 +14,7 @@ O projeto apresenta a construção de um carrinho que joga futebol usando **Ardu
 # <sub><img src="https://img.icons8.com/?size=100&id=BALd1KYkA898&format=png&color=000000" alt="Ícone de prototipação" width="38"></sub> Componentes
 - 2 x Roda Hobby 65mm
 - 1 x Protoboard 400 pontos
-- 1 x Roda Boba - Rod´ızio 25mm
+- 1 x Roda Boba - Rodízio 25mm
 - 1 x Módulo Driver Ponte H - L9110
 - 1 x Placa Arduino UNO R4 Wi-fi
 - 2 x Bateria Li-Ion 18650 3,7V - 2550mAh
